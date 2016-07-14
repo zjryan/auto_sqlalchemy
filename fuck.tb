@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+table Product
+    id int pk u
+    created_time int
+    name str
+    price float
+    likes int
+    pic_url str
+
+
+
+
+
+
+table User
+    id int pk u
+    created_time int
+    username str
